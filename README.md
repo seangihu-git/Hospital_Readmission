@@ -1,6 +1,6 @@
 # Patient Experience vs. Readmission Rates
 
-You can find more information about this project on the [presentation deck](https://docs.google.com/presentation/d/e/2PACX-1vRkzKFxqJdgEAUEghb-DSGCjH5T32Px3UtBuMTTkQC8jJeWYkoEQ2HhBKCJAjDvF5M6vFCkipVG_kM6/pub?start=false&loop=false&delayms=5000). 
+You can find more information (including the data visualizations) about this project on the [presentation deck](https://docs.google.com/presentation/d/e/2PACX-1vRkzKFxqJdgEAUEghb-DSGCjH5T32Px3UtBuMTTkQC8jJeWYkoEQ2HhBKCJAjDvF5M6vFCkipVG_kM6/pub?start=false&loop=false&delayms=5000). 
 
 ### Research Question
 ⭐ Is there a relationship between patient experience scores and excess hospital readmission rates?
